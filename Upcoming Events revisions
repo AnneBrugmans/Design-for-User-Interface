@@ -5,19 +5,20 @@ Original version
 http://www.yycdata.ca/calendar
 
 Creative director wanted a "popup modal" where  UX perspective isn't cumbersome taking up the whole screen. 
-Feedback from team was given 
--the feature is a progressive and smart way to display the event on desktop 
+"The calendar currently has a basic component to render some basic event details on click. 
+We need to create a more user friendly and aesthetic component."
+Feedback from team was given
+-the popup feature is a progressive and smart way to display the event on desktop 
 -it will probably take up most the screen on mobile
 
-Desktop version draft
+Design draft for desktop version submitted
 https://www.figma.com/proto/uAGDvsDHHdPX12xi2ED6MO/Events-pop-up-desktop?scaling=scale-down&node-id=1%3A2
 
-User Experience 
+Features to enhance the user experience 
 -added option button that takes user to full page 'Calendar of Events' on desktop only (if calendar is still required)  
 -added 'new' to event box
 -added an arrow down (on demand) at bottom for more events.  
--This is a draft so any elements can be adjusted and fine tuned to meet needs and standards. BTW I 
--changed font to 'Segoe UI' on these layouts
+-changed font type for another option
 
 Feedback from team was given 
 -being able to jump to the next event on the calendar quickly was a great idea and a a good feature that can be incorporated.
@@ -25,10 +26,10 @@ Feedback from team was given
 -instead of a 'View in calendar' button, an 'Add to Calendar' will download the .ics file so user can add it to their personal calendars.
 -modal is a bit busy, so only one event will be displayed at a time to keep from information overload
 
-iPhone version with edits 
+Design draft for iPhone version  
 https://www.figma.com/proto/Zn24dfkUFqTyZBCtQIUpBt/Upcoming-Events-iPhone8?scaling=scale-down&node-id=24%3A222
 
-User Expereince
+Features to enhance the user experience
 -changed the layout and styling for better visibility
 -kept 'Special Event Announcement' (blank space if irrelevant)
 -removed search button (to be added to main page)
@@ -39,5 +40,5 @@ User Expereince
 -'Show All Events' drop down arrow clicks to a list all groups to selection from
 -'More Events' drop down arrow clicks to show all events relevant to selection
 
-iPhone view when user clicks on 'Join EVENT' button.
+Design draft for iPhone view when user clicks on 'Join EVENT' button.
 https://www.figma.com/proto/AB09qihaXJDVAq00dXcR56/Event-Link-i-Phone8?scaling=scale-down&node-id=1%3A2
