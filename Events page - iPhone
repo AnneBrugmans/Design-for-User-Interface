@@ -1,0 +1,17 @@
+# User-Interface-Design-
+Preliminary designs for YYC Data Society website 
+
+Creative direction  
+-the "event detail" component is on the right track
+-we don't have access to all the information you've listed on the detail page, such as type of event and organizers
+-switch to use branding colors in proposed designs
+
+Design draft for Events - iPhone 
+https://www.figma.com/proto/ZyN6FjkMUMwIP8VgdZC2rL/Event-branding-colors-iPhone8?node-id=1%3A38&scaling=scale-down
+
+Revisions to interfce and enhance user experience  
+-extra info was removed and can be placed in description note area at bottom if known or needed
+-logo was changed to balance colours, weight, space, etc.
+-bolded text and filled colour only when button is selected
+-'new' is optional when event is added
+-branding colours applied
